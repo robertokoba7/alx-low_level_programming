@@ -1,8 +1,9 @@
+#!/bin/bah
 #include<stdio.h>
 /**
  * main - Entry point
  *
- * Return: Value 0
+ * Return: Value 0 (Success)
  */
 int main(void)
 {
