@@ -9,13 +9,13 @@ int main(void)
 {
 	int p;
 
-	for (p = 5; p < 15; p++)
+	for (p = 48; p < 58; p++)
 	{
 		putchar(p);
-		if (p != 14)
+		if (p != 57)
 		{
-			putchar(' ');
 			putchar(',');
+			putchar(' ');
 		}
 	}
 	putchar('\n');
