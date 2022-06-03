@@ -1,9 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
  * main - Determines if the number is greater than 5, is less than 6, or is 0
- *Return: Alwsays 0
+ *
+ *Return: Always 0
  */
 int main(void)
 {
