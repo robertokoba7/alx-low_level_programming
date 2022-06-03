@@ -16,7 +16,7 @@ while (h < 58)
 	while (g < 58)
 	{
 		e = 48;
-		while (i < 58)
+		while (e < 58)
 		{
 			i = 48;
 			while (i < 58)
