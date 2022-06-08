@@ -3,7 +3,7 @@
 /**
  * main - Print natural numbers below 1024 that are multiple of 3 and 5.
  *
- * Returns: Always 0
+ * Return: Always 0
  */
 int main(void)
 {
