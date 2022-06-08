@@ -5,7 +5,7 @@
  *
  * Return: Always 0
  */
-int main(void)
+int main()
 {
 	int a, boolean, boolean2;
 	long int l1, l2, fl, fl2, l11, l22;
