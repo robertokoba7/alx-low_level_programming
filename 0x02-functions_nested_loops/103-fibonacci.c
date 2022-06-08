@@ -7,6 +7,7 @@
 int main(void)
 {
 	long int l1, l2, fl, afl;
+
 	l1 = 1;
 	l2 = 2;
 	fl = afl = 0;
