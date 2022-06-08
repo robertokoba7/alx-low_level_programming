@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- * fibonacci_numbers - prints first 98 fibonacci numbers
+ * main - prints first 98 fibonacci numbers
  *
  * Return: Always 0
  */
-int main()
+int main(void)
 {
 	int a, boolean, boolean2;
 	long int l1, l2, fl, fl2, l11, l22;
