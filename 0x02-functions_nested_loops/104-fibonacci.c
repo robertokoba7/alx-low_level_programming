@@ -3,7 +3,7 @@
 /**
  * fibonacci_numbers - prints first 98 fibonacci numbers
  *
- * Return: Always 0
+ * Return: finobacci number
  */
 int main(void)
 {
@@ -46,7 +46,7 @@ int main(void)
 			boolean = 0;
 	}
 	printf("\n");
-	return (0);
+	return (finobacci_number);
 }
 
 
