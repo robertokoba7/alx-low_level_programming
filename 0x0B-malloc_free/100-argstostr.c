@@ -6,7 +6,7 @@
  * @ac: The number of arguments passed to the program.
  * @av: An array of pointers to the arguments.
  *
- * Returns: NULL if ac == 0 or av == NULL
+ * Return: NULL if ac == 0 or av == NULL
  *          Otherwise - a pointer to a new string, or NULL if it fails
  */
 char *argstostr(int ac, char **av)
