@@ -3,11 +3,14 @@ Preprocessor
 Objectives
 ---
 The project is an ALX full stack Software Engineering course. It main objecitive is to learn how include guards in the header files and macros in C language.
+
 ---
-General
-What are macros and how to use them
-What are the most common predefined macros
-How to include guard your header files
+
+#General
+
+*What are macros and how to use them
+*What are the most common predefined macros
+*How to include guard your header files
 
 ---
 File Name               | Description
