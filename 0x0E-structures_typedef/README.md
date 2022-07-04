@@ -1,10 +1,10 @@
-#Structures, typedef
+Structures, typedef
 ---
-project done during ####full stack Software Engineering studies#### at ####ALX#### with the sole objective of learning about structures and typedef in C language.
+project done during *full stack Software Engineering studies* at *ALX* with the sole objective of learning about structures and typedef in C language.
 
-#Files
+Files
 ---
-###File Name              Description
+File Name                |Description
 -------------------------|-------------------
 dog.h                    | Header file that contains a struct dog
 1-init_dog.c             | Initialize a variable of type struct dog
