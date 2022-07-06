@@ -1,10 +1,10 @@
-#Function Pointers
+Function Pointers
 ---
-project done during #full stack Software Engineering# studies at #ALX# with the sole objective of learning about function pointers in C language.
+project done during **full stack Software Engineering** studies at **ALX** with the sole objective of learning about function pointers in C language.
 
-#File
+File
 ---
-##Filename           |   Description
+Filename           |   Description
 -----------------    |----------------------------
 0-print_name.c       | Prints a name
 1-array_iterator.c   | Executes a function given as a parameter on each element of an array.
