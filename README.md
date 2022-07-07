@@ -1,10 +1,7 @@
-#Low-level programming & Algorithm Module - Hatching Out
+Low-level programming & Algorithm Module - Hatching Out
 ---
--PROJECTS BY ALX SCHOOL
+PROJECTS BY HOLBERTON SCGOOL & ALX SE PROGRAMME.
 ---
--0X00-Hello World!
--0x01- Variables, if, else, while 
--0x02-Functions, nested loops
--0x03- Debugging
--0x04- More functions, more nested loops
--0x05-Pointers, arrays and strings.
+Acknowledgement.
+---
+All work done in this entire project was completed as part of the curriculum for Holberton School and ALX . Holberton School with ALX is a campus-based full-stack software engineering program that prepares students for careers in the tech industry. The project are done on peer to peer learning basis.
