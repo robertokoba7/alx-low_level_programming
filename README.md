@@ -1,6 +1,6 @@
 Low-level programming & Algorithm Module - Hatching Out
 ---
-PROJECTS BY HOLBERTON SCGOOL & ALX SE PROGRAMME.
+PROJECTS BY HOLBERTON SCHOOL & ALX SE PROGRAMME.
 ---
 Acknowledgement.
 ---
