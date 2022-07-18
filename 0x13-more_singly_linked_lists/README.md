@@ -1,7 +1,9 @@
 
 More singly linked lists
 ---
+
 Project done during **Full stack Software Engineering studies** at **ALX SE programme** with the sole objective of learning about **More Singly Linked Lists** in C language.
+
 ---
 Files                    |     Description
 ----------------------   | ---------------------------
