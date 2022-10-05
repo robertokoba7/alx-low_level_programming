@@ -1,4 +1,4 @@
-#Sorting algorithms
+Sorting algorithms
 ---
 Project done during **Full Stack Software Engineering studies** at **ALX SE Programming** and  **Holberton School.** It aims to learn about sorting algorithms (bubble sort, insertion sort, selection sort, quick sort and so on) and Big O Notation in **C language.**
 
@@ -52,7 +52,7 @@ Read or watch:
 * [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
 * [Sorting Algorithms BigPicture](https://www.youtube.com/watch?v=RLuBLU_NgaA)
 * [Big-O is easy to calculate, if you know how](https://justin.abrah.ms/computer-science/how-to-calculate-big-o.html)
-* [8 time complexities that every programmer should know](8 time complexities that every programmer should know)
+* [8 time complexities that every programmer should know](https://adrianmejia.com/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/#Binary-search)
 
 Author
 ---
